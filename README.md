@@ -16,6 +16,7 @@ Focus was applied to US theater or play campaigns to align with Louise's goals o
 ## **Analysis and Challenges**
 
 ### Analysis of Outcomes Based on Launch Date
+
 	To see relation of existing campaigns outcomes based on the launch date, a pivot table was created with those perameters. 
 The number of successful, failed, and canceled campaigns were totaled for each month.
 The data was filtered to display only theater category campaigns, to align with Louise's personal campaign type. A line graph was then created to allow ease of visualization of outcome versus launch date.  
@@ -23,6 +24,7 @@ The data was filtered to display only theater category campaigns, to align with 
 ![Screenshot_Theater_Outcomes_sheet](https://user-images.githubusercontent.com/100040705/159133276-25fd5266-f939-49a8-a70c-b32c6c47f22d.png)
 
 ### Analysis of Outcomes Based on Goals
+
 	The relationship between outcomes and goal amount for plays was analyzed to determine starting goal ranges that historically exhibit success. 
 The number of successful, failed, and canceled US play category projects were counted in 11 goal ranges from $1,000 to $50,000 were totaled. This information was then used to find the percentage of each outcome for each goal range.
 The results were graphed to depict the goal ranges with the most success. 
@@ -31,6 +33,7 @@ The results were graphed to depict the goal ranges with the most success.
 -----
 
 ### Challenges and Difficulties Encountered
+
 	Within the outcomes based on goals analysis challenges were incountered with formatting of the CountIf function for the number of campaigns in each outcome category.
 I found the sequence of criteria difficult to incorporate with the goal ranges and had to watch the informational video a few times before I returned accurate results. My original graph looked vastly different and would have given inaccurate results. 
 Once I had reviewed my formula and module information, I was able to input the correct formula and therefore accurate data.

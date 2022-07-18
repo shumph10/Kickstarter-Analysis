@@ -69,3 +69,8 @@ Limitiations of the dataset include small sample size of theater or play categor
 
 
 An additional graph could be created to show the total number of successful campaigns in a goal range in relation to the total overall number of play campaigns.  I did some simple calculations to see that the majority of campaigns have goals under $10,000. Since there are significantly less total campaigns in the higher goal parameters, there may be an additional relationship between goal amount and the chance of having a successful campaign. Additional pivot table and graph could be created to closer examine the launch dates in the most successful range (April to August) to see what other factors could lead to success.  Pivot tables could also be created to show the effect on campaigns of being a staff pick, or the length of time between launch and deadline of the project.
+
+##**Contact Me**
+
+Email: sarahhumphrey2016@outlook.com </br>
+[LinkedIn](https://www.linkedin.com/in/sarah-humphrey-data-analyst/)
